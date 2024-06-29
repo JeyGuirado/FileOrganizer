@@ -1,0 +1,7 @@
+1. Duplicate was the hardest to implement while unlink was the easiest
+
+2. I was not able to test because I was not able to get it to run. I need to come to office hours and be more present in class so 
+I can complete these PAs, and do them on a more timely basis
+
+3. I learned that interacting with files using system calls felt similar to Java, and that I need a buffer to read and write
+data from files in chunks.
